@@ -1,6 +1,7 @@
 # devquiz
 
-A new Flutter application.
+app flutter de perguntas e respostas onde o objetivo é ensinar o usuário a aprender flutter.
+
 
 ## Getting Started
 
